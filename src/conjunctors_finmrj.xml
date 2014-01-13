@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Pcle">-han</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PCLE_" pos="Pcle">вет</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">-hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PCLE_" pos="Pcle">вет</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">edes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PCLE_" pos="Pcle">ито</t> </tg> </mg> </e>
+<e> <lg> <l pos="">eli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">ӓль</t> </tg> </mg> </e>
+<e> <lg> <l pos="">että</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">манын</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">ja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="Cc" pos="Conj">дон</t> <t Contlex="Cc" pos="Conj">дӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">jollei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">ылгецӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">jopa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PCLE_" pos="Pcle">ито</t> </tg> </mg> </e>
+<e> <lg> <l pos="">jos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">дык</t> <t Contlex="CONJ_" pos="Conj">ылгецӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">jos; mikäli; ellei; jollei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">гӹнь</t> <t Contlex="CONJ_" pos="Conj">гӹньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">jospa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">ылгецӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">jotta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">манын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">koska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">потомушто</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">kuin; ikään kuin; aivan kuin; mukamas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">вуйта</t> </tg> </mg> </e>
+<e> <lg> <l pos="">mutta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">но</t> <t Contlex="CONJ_" pos="Conj">только</t> <t Contlex="CONJ_" pos="Conj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="">muuten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">тоты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">muuten; muutoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">ато</t> </tg> </mg> </e>
+<e> <lg> <l pos="">muutoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">тоты</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">sekä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="Cc" pos="Conj">дон</t> <t Contlex="Cc" pos="Conj">дӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">sen sijaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">зато</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">siksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">седӹндон</t> <t Contlex="CONJ_" pos="Conj">седӹндоно</t> <t Contlex="CONJ_" pos="Conj">тӹндон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">sitä vastoin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">зато</t> </tg> </mg> </e>
+<e> <lg> <l pos="">tai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">льывы</t> <t Contlex="CONJ_" pos="Conj">ӓли</t> <t Contlex="CONJ_" pos="Conj">ӓль</t> </tg> </mg> </e>
+<e> <lg> <l pos="">taikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">ӓли</t> <t Contlex="CONJ_" pos="Conj">ӓль</t> </tg> </mg> </e>
+<e> <lg> <l pos="">vaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="CONJ_" pos="Conj">хоть</t> <t Contlex="CONJ_" pos="Conj">ылгецӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">vaikka; joskin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">керек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Conj">vaikka; vaikkakin; vaikkei; silti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="CONJ_" pos="Conj">гӹнят</t> </tg> </mg> </e>
+</r>

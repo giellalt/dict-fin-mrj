@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+
+
+<e> <lg> <l pos="A">administratiivinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">административный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">agentuuriton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">агентствыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">agraarinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аграрный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">agressiivinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">агрессивный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ajankohtainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">актуальный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aktiivinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">активный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">alkuperäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анзыцшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">allekirjoitukseton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">автографдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">alumiinitön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алюминидӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">amerikkalainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">американский</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">analyysitön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анализдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ankara</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армыж</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">anonyymi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анонимный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ansaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алтанзыкдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">antennitön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">антеннӹдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">antiikkinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">античный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">arabilainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">арабский</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">armeijaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армидӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">armenialainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армянский</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">arominen; hyväntuoksuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ароматан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aromiton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ароматдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">arvovaltainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авторитетӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">auditorio=</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">актовый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">auktoriteetiton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авторитетдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">aurinkoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аяран</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">autonominen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">автономиӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">autoton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">автомобильдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">avara; väljä; tilava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_ТӸРВӸ" pos="A">йонгыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">barrikadillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баррикадан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">edellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анзыл</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">elokuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">августыштышы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">epähygieeninen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">антисанитарный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">epäpoliittinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аполитичный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">epärehellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алави</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">epäsiisti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авызи</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">erikoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">айыртемӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">erityinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">айыртемӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">erotukseton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">айыртемдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">etu=</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анзыл</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">etuhalkiota sisältävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армаражан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">etuhalkioton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армараждымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">etumainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анзыл</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">etummainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анзыцшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">haaksirikoton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аваридӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hallinnollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">административный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hapan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">шапы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">harjainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аржаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hedelmällinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">пырга</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">holvikaareton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аркыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">huhtikuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">апрельӹштӹшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">huokuttelematon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аппетитдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">huolellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аккуратный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">huoleton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_ОЛМА" pos="A">йолтишкӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">яжо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hyökkäävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">агрессивный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">hölmö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">арик-сурик</t> </tg> </mg> </e>
+<e> <lg> <l pos="">iloinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">веселӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">iloinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">сусу</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">itsenäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">автономный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">juhla=</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">актовый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">juokkioton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бандыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaislainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амыжан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaislaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амыждымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">karvainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">мижӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaunis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">косир</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kaunis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">цӓцӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaunis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">яжо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kaunistamaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">яжыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">keltainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">сары</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kelvoton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акъяры</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kesäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">кӓнгӹжшӹ</t> <t Contlex="A_" pos="A">кӓнгӹжӓш</t> <t Contlex="A_" pos="A">кӓнгӹжӹмшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kevytmielinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">алик-пылик</t> <t Contlex="A_ОЛМА" pos="A">йолтишкӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kielletty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акъяры</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kiikariton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бинокльдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kirjava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ала</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kirkas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">соты</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">korjamaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">яжыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">korkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">вӹцкӹж</t> <t Contlex="A_" pos="A">кӱкшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">korostukseton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акцентдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuoreinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авахаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuoreton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авахадымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kuormallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аравааш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">känsistynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алтацаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">känsäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алтацаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kätilö=</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акушерский</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kömpelö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армыж</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laitteeton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">агрегатдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lakallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">лакан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lakaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">лакдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lampunvarjostimeton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">абажурдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">laskoksellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амбылцан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">liiallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акел</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">likainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авызи</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lyhyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">мытык</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">matala</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">изи</t> <t Contlex="A_" pos="A">кӹжгӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">matkaliputon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">билетдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">menestyksekäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ашан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">merensininen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">симсӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">mikä tahansa, minkälainen tahansa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">хоть-махань</t> <t Contlex="A_" pos="A">хоть-маханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">minkälainen tahansa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">ӓнят-махань</t> <t Contlex="A_" pos="A">ӓнят-маханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">mistä tahansa oleva; minkälainen tahansa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ӓнят-кыштышы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mittainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">кӹжгӹцӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">monivärinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ала</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">musta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">шим</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mykkä; kuuromykkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">апай</t> </tg> </mg> </e>
+<e> <lg> <l pos="">myötämielinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">кымылзы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">niitytön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алыкдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nimetön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">анонимный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">odelmainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">атылан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">odelmaton; äpäreetön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">атылдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ohut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">вӹцкӹж</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">omaelämäkerrallinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">автобиографиӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">osake=</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акционерный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ovellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амасаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oveton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амасадымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pajuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">уаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pajuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">уадымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paksu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">кӹжгӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paksuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">кӹжгӹцӓн</t> <t Contlex="A_" pos="A">кӹжгӹцӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paloton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авахадымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pankillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">банкан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">parakillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баракан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">parakiton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баракдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paristollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">батарейӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">paristoton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">батарейдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">parvekkeellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">балконан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">parvekkeeton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">балкондымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pelottava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армыж</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">petoksellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алтанзыкан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">petollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алтанзыкан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pettävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алтанзыкан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pieni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">изи</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pilaantunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">шапы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pitkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">кужы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">poijuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бакендӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">polttoaineellinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бензинӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">poskipartainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бакенбардан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">postilähetyksellinen; ristisiteinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бандеролян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">proomuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баржан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">proomuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баржыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pärepihdillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">изикӓӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">pärepihditön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">изикӓдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raitis; selvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ары</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">raivotautinen; vesikauhuinen; hurja; hurjistunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">арышы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">riittävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ситӓлык</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rummuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">барабандымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruokakaupaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бакалейдӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ruokakauppa=</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бакалейӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rähjäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авызи</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sellainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">техень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">signeerattu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">автографан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">siisti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">аккуратный</t> </tg> </mg> </e>
+<e> <lg> <l pos="">sikäläinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">тӹштӹшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sinertävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">симсӓлгӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sininen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">симсӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sopimaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акъяры</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">sulhaseton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">армарыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suomuinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авахаан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suomuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">авахадымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">suora</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">тӧр</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">syyskylvätty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">азыман</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">säiliöllinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баллонан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">säiliötön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баллондымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tarpeeton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акел</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">taruinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">баснян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tekstikappaleeton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">абзацдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">teltaton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амашдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">telttainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">амашан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tertuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">арлыкдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">terävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">кашар</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">terävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">кашаргы</t> <t Contlex="A_" pos="A">кужы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">timantiton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алмаздымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">toivekas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">уанан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tolkuton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">арик-сурик</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tornillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">башнян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">torniton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">башньыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tukikohtainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">базан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuleva</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">анзыкылашы</t> <t Contlex="A_" pos="A">анзылнышы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuollainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">тӹхеньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">turha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">акел</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuuhea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">лаштыра</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tuuheaoksainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">лаштыра</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tyhmä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">ангы-сынгы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">техень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uimahalliton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">бассейндӹмӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uskonnonvastainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">антирелигиозный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">у</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">valkoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="A_" pos="A">ош</t> <t Contlex="A_" pos="A">ошы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">valoisa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">соты</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">varastoton; tukiasematon; tukialueeton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">базыдымы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">villi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">хир</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vilpillinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">алави</t> </tg> </mg> </e>
+<e> <lg> <l pos="">voikko ???</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="A_" pos="A">хыла</t> </tg> </mg> </e>
+</r>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="">-sta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">гӹц</t> <t Contlex="POSTP_" pos="Po">гӹцӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">aikana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">годым</t> </tg> </mg> </e>
+<e> <lg> <l pos="">alkaen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">годшен</t> </tg> </mg> </e>
+<e> <lg> <l pos="">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">лӹвӓк</t> <t Contlex="POSTP_" pos="Po">лӹвӓкӹ</t> <t Contlex="POSTP_" pos="Po">лӹвӓлӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">alta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">лӹвец</t> <t Contlex="POSTP_" pos="Po">лӹвецӹн</t><t Contlex="POSTP_" pos="Po">лӹвӓц</t> <t Contlex="POSTP_" pos="Po">лӹвӓцӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">asemesta; sijaan; sijasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">вӓреш</t> </tg> </mg> </e>
+<e> <lg> <l pos="">joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">йӹде</t> </tg> </mg> </e>
+<e> <lg> <l pos="">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">паштек</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kanssa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">доно</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kera</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">доно</t> </tg> </mg> </e>
+<e> <lg> <l pos="">keskelle; keskuuteen; sekaan; joukkoon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">лошкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">keskuudessa; seassa; joukossa; keskellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">лошты</t> </tg> </mg> </e>
+<e> <lg> <l pos="">keskuudesta; seasta; joukosta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">логӹц</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kohdalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">кытлашты</t> <t Contlex="POSTP_" pos="Po">туре</t> </tg> </mg> </e>
+<e> <lg> <l pos="">kuten; lailla; tapaan; tapainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">гань</t> </tg> </mg> </e>
+<e> <lg> <l pos="">lailla; tapaan; kuten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">ганьок</t> <t Contlex="POSTP_" pos="Po">ганьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">докы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luokse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">докы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luokse; viereen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">доран</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luona</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">доны</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luona; vieressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">доран</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luona; vieressä; ääressä; lähellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">воктен</t> </tg> </mg> </e>
+<e> <lg> <l pos="">luota; vierestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">дорц</t> <t Contlex="POSTP_" pos="Po">дорцын</t> </tg> </mg> </e>
+<e> <lg> <l pos="">lähellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">лишнӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">läpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">мычкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">nimeen; nimessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">лӹмеш</t> </tg> </mg> </e>
+<e> <lg> <l pos="">ollessa; päin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">вуя</t> </tg> </mg> </e>
+<e> <lg> <l pos="">perään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">паштек</t> </tg> </mg> </e>
+<e> <lg> <l pos="">pitkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">мычкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="">puolelle; suunnalle; taholle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">велӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">puolellа; suunnallа; tahollа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">велнӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">puoleltа; suunnaltа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">вец</t> <t Contlex="POSTP_" pos="Po">вецӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">puolesta; tähden; takia; vuoksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">верц</t> <t Contlex="POSTP_" pos="Po">верцӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">päälle; ylle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="POSTP_" pos="Po">вӹкӹ</t> <t Contlex="POSTP_" pos="Po">вӹлкӹ</t> <t Contlex="POSTP_" pos="Po">вӹлӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">päällä; yllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">вӹлнӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">päältä; yltä; vaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">вӹлец</t> </tg> </mg> </e>
+<e> <lg> <l pos="">suuntaan; puoleen; päin; kohti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">век</t> </tg> </mg> </e>
+<e> <lg> <l pos="">takana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">шайылны</t> </tg> </mg> </e>
+<e> <lg> <l pos="">takia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">велдӹк</t> </tg> </mg> </e>
+<e> <lg> <l pos="">takia; vuoksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">гишӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="">vain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">велӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">vastaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">ваштареш</t> </tg> </mg> </e>
+<e> <lg> <l pos="">vieressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">сага</t> </tg> </mg> </e>
+<e> <lg> <l pos="">väliin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">лоэш</t> </tg> </mg> </e>
+<e> <lg> <l pos="">yli; ylitse; poikki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">гач</t> </tg> </mg> </e>
+<e> <lg> <l pos="">ympäri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="POSTP_" pos="Po">йӹр</t> </tg> </mg> </e>
+</r>
