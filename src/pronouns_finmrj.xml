@@ -1,75 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e> <lg> <l pos="Pron">aikaisempi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">молнамшы</t> </tg> </mg> </e>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin">
+<e> <lg> <l pos="Pron">toinen; muu; seuraava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">вес</t> <t Contlex="PRON_" pos="Pron">весӹ</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">eräs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ик</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">eräänlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">ӓнят-тамахань</t> <t Contlex="PRON_" pos="Pron">ӓнят-тамаханьы</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">he</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-PL3" pos="Pron">нӹнӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-SG3" pos="Pron">тӹдӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="REFL" pos="Pron">ӹшке</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">johonkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-кыш</t> <t Contlex="PRON_" pos="Pron">иктӓ-кышак</t><t Contlex="PRON_" pos="Pron">иктӓ-кышан</t> <t Contlex="PRON_" pos="Pron">тагыш</t> <t Contlex="PRON_" pos="Pron">тагышак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jokainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jokainen; joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">каждый</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jokin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-кыды</t> <t Contlex="PRON_" pos="Pron">тагыды</t> <t Contlex="PRON_" pos="Pron">ӓнят-ма</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jokin; jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">икмахань</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jokin; jotakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-ма</t> <t Contlex="PRON_" pos="Pron">ма-шон</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-кӱ</t> <t Contlex="PRON_" pos="Pron">кӱ-ӓнят</t><t Contlex="PRON_" pos="Pron">тӓгӱ</t> <t Contlex="PRON_" pos="Pron">ӓнят-кӱ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">joku; jotkut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓжӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-махань</t> <t Contlex="PRON_" pos="Pron">иктӓ-маханьы</t><t Contlex="PRON_" pos="Pron">иктӓ•-махань-гӹнят</t> <t Contlex="PRON_" pos="Pron">иктӓ•-маханьы-гӹнят</t><t Contlex="PRON_" pos="Pron">ӓнят-тамахань</t> <t Contlex="PRON_" pos="Pron">ӓнят-тамаханьы</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jonnekin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыш-шон</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">joskus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-гӓнӓ</t> <t Contlex="PRON_" pos="Pron">южгынам</t> <t Contlex="PRON_" pos="Pron">южнам</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">joskus; jolloinkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынам-гӹнят</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jostakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-кышец</t> <t Contlex="PRON_" pos="Pron">тагышец</t> <t Contlex="PRON_" pos="Pron">тагышецӹн</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jotain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-ма</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jotenkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-кыце</t> <t Contlex="PRON_" pos="Pron">тагыце</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jotkut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">южшы</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">kaikin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓн</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">kaikki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">цилӓ</t> <t Contlex="PRON_" pos="Pron">цилӓн</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">koko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">koskaan; milloinkaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигынам</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">kuka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кӱ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">kuka; kumpi; mikä; joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">kukaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигӱ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">kukaan; yksikään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓт</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-PL1" pos="Pron">мӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">mihin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">mihinkään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">нигыш</t> <t Contlex="PRON_" pos="Pron">нигышак</t> <t Contlex="PRON_" pos="Pron">нигышкы</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">miksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">малан</t> <t Contlex="PRON_" pos="Pron">малын</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">mikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ма</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">mikään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нима</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">millekään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нималан</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">milloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагынам</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">milloin; koska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынам</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">minkälainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">махань</t> <t Contlex="PRON_" pos="Pron">маханьы</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">minä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PERS-SG1" pos="Pron">мӹнь</t> <t Contlex="PRON_" pos="Pron">мӹньӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">missään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигышты</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">mistään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигышец</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">miten vain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыце-шон</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">miten; kuten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыце</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">mitenkään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигыце</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">montako</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">кынар</t> <t Contlex="PRON_" pos="Pron">кынары</t><t Contlex="PRON_" pos="Pron">кынарыкы</t> <t Contlex="PRON_" pos="Pron">маняр</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">muu; toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">мол</t> <t Contlex="PRON_" pos="Pron">молы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">saman-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ик</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">muutama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">икманяр</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">muutaman</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">икманярын</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">niinpä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенгелӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">nuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-PL" pos="Pron">нӹнӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">näin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенге</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">näinpä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенгелӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">nämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-SG" pos="Pron">нинӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">oma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="REFL" pos="Pron">ӹшке</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">saman-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ик</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">se</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тӹ</t> <t Contlex="DEM-SG" pos="Pron">тӹдӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">sellainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">техень</t> <t Contlex="PRON_" pos="Pron">техеньӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">sitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тенге</t> <t Contlex="PRON_" pos="Pron">тенгелӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">te</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-PL2" pos="Pron">тӓ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">toinen; muu; seuraava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">вес</t> <t Contlex="PRON_" pos="Pron">весӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="DEM-SG" pos="Pron">седӹ</t> <t Contlex="PRON_" pos="Pron">тӹ</t> <t Contlex="DEM-SG" pos="Pron">тӹдӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tuonpuolinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвелнӹшӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tähän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тишӓк</t> <t Contlex="PRON_" pos="Pron">тишӓкен</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">техень</t> <t Contlex="PRON_" pos="Pron">техеньӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">ти</t> <t Contlex="DEM-SG" pos="Pron">тидӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">tänne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тишкӹ</t> <t Contlex="PRON_" pos="Pron">тишӓкен</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">täällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тиштӓкен</t> <t Contlex="PRON_" pos="Pron">тиштӹ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">vielä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">моло</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">yhtään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ниманяр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin; jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">икмахань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joskus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-гӓнӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-кыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jotenkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-кыце</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">johonkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-кыш</t> <t Contlex="PRON_" pos="Pron">иктӓ-кышак</t> <t Contlex="PRON_" pos="Pron">иктӓ-кышан</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jostakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-кышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-кӱ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin; jotakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-ма</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓ-ма-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ-махань</t> <t Contlex="PRON_" pos="Pron">иктӓ-маханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joku; jotkut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓжӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kukaan; yksikään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">иктӓт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӓ•-махань-гӹнят</t> <t Contlex="PRON_" pos="Pron">иктӓ•-маханьы-гӹнят</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">yksi; sama</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">иктӹ</t> <t Contlex="PRON_" pos="Pron">иктӹт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">йылхи</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">йыхи-яхи</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokainen; joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">каждый</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-кынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-кынар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-кышак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-кышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-кышкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-кышты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">керек-маняр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kuka; kumpi; mikä; joka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-кынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-кынамшен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-кынар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-кышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-кышкевек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-кыштакен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-тидӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыды-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">milloin; koska</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joskus; jolloinkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынам-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">montako</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынар-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кынар-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">montako</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">кынары</t> <t Contlex="PRON_" pos="Pron">кынарыкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">miten; kuten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыце</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">miten vain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыце-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыце-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыцежӹ-мажы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jonnekin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыш-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mihin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышак-тишӓк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышак-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышак-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышакен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышакен-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышец-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышец-тишец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышец-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышец-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышецын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкевек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкевек-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкевек-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкевек-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкы-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкы-тишкӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкы-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышкы-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыштакен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыштакеншӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышты-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышты-тиштӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышты-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кышты-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кыштышы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kuka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кӱ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кӱ-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">кӱ-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mikä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ма</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ма-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin; jotakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ма-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ма-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">мааш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">магӹц</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">магӹц-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">miksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">малан</t> <t Contlex="PRON_" pos="Pron">малын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">montako</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">маняр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">маняр-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">маняр-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">маняраш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">маняры</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">манярымшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minkälainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">махань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">махань-шон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">махань-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minkälainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">маханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">muu; toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">мол</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">aikaisempi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">молнамшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">vielä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">моло</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">muu; toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">молы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-PL1" pos="Pron">мӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PERS-SG1" pos="Pron">мӹнь</t> <t Contlex="PRON_" pos="Pron">мӹньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">koskaan; milloinkaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mitenkään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигыце</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mihinkään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">нигыш</t> <t Contlex="PRON_" pos="Pron">нигышак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mistään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mihinkään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигышкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">missään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигышты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kukaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нигӱ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mikään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нима</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">millekään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нималан</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">yhtään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ниманяр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">нимахань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">nämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-SG" pos="Pron">нинӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">he</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-PL3" pos="Pron">нӹнӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">nuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-PL" pos="Pron">нӹнӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-SG" pos="Pron">седӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">седӹге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">седӹлӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">седӹнӓр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">седӹнӓрӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">седӹхень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">седӹхеньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыды-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыды-кынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыды-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">milloin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагынам-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагынам-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагынамшен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагынамшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jotenkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыце</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыце-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагыце-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">johonkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тагыш</t> <t Contlex="PRON_" pos="Pron">тагышак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышак-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышак-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышакен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jostakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышец-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышец-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jostakin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышецӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышкевек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышкевек-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышты-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тагышты-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тама</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тама-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тама-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамазар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамалан</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамалан-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамалан-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамалын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамалын-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамалын-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">таманяр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">таманяр-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">таманяр-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">таманяреш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">таманяры</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">таманярын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамаок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамахань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамахань-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамахань-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тамаханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">теве</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">näin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">niinpä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенгелӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">näinpä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенгелӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тенгелӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sellainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">техень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">техень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sellainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">техеньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tällainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">техеньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ти</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тигытлашты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-SG" pos="Pron">тидӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тишец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тишецӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tänne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тишкӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">täällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тиштӓкен</t> <t Contlex="PRON_" pos="Pron">тиштӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tähän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">тишӓк</t> <t Contlex="PRON_" pos="Pron">тишӓкен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tänne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тишӓкен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">te</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-PL2" pos="Pron">тӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӓгӱ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӓгӱ-гӹнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӓгӱ-ӓнят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">se</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвекӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвекӹлӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвелнӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tuonpuolinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвелнӹшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвелӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвецӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹвеш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹгодшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹгодым</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹгодымшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹгытлашты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹгытлаэш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-SG3" pos="Pron">тӹдӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">tuo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-SG" pos="Pron">тӹдӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">se</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="DEM-SG" pos="Pron">тӹдӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнгелӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹндон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PERS-SG2" pos="Pron">тӹнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓм</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓмеш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓмшен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓмшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓрӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹнӓрӹкӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹте</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹун</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹхень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹхеньӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшец-тишец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшецӹн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшкевек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшкӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшкӓн-тӹшкӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшкӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшкӹ-тишкӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹштӓкен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹштӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹштӹ-тиштӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹштӹшӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшӓк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">тӹшӓкен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кынам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кынамеш</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кынар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кыце</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кышак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кышкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кышты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-кӱ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-ма</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-маняр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-маняры</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-махань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">хоть-маханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kaikki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">koko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kaikki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">kaikin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">цилӓн</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">юж</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joskus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="PRON_" pos="Pron">южгынам</t> <t Contlex="PRON_" pos="Pron">южнам</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jotkut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">южшы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кыды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кынар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кынары</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кышак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кышакен</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кышец</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кышецын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кышкы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кышты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кыштышы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">joku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-кӱ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jokin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-ма</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jotain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-ма</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-мазар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-мазары</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-маняр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-маняры</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-махань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-маханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тама</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамазар</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамазары</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамалын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-таманяр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-таманяры</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамахань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">eräänlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамахань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jonkinlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамаханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">eräänlainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PRON_" pos="Pron">ӓнят-тамаханьы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="REFL" pos="Pron">ӹшке</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="REFL" pos="Pron">ӹшке</t> </tg> </mg> </e>
 </r>
