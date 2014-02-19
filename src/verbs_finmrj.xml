@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin">
-<e> <lg> <l pos="V">kontata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">авалянаш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">kontata</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="HUM_V"/> </semantics> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">авалянаш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">paisua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">авараш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">nousta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">авараш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kohota</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">авараш</t> </tg> </mg> </e>
@@ -3808,13 +3808,22 @@
 <e> <lg> <l pos="V">kietoutua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹтӹрнӓлтӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kääriytyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹтӹрнӓлтӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kiertyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрнӓш</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">kiertää; rullata; kääriä; kelata; vääntää; vyyhtiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">kiertää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">rullata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">kääriä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">kelata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">vääntää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">vyyhtiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">ahmia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹтӹрӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">pimentää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹцкемӹштӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">himmentää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹцкемӹштӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">pimetä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹцкемӹшӓлтӓш</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">leikata; leikellä; veistellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹчкедӓш</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">leikata; sahata; veistää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹчкӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">leikata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹчкедӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">leikellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹчкедӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">veistellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹчкедӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">leikata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹчкӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">sahata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹчкӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">veistää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹчкӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">leikauttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">пӹчкӹктӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">hieroa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹшкӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">vertyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">пӹшкӹлтӓш</t> </tg> </mg> </e>
@@ -3911,7 +3920,6 @@
 <e> <lg> <l pos="V">niittää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">салаш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">niittää huonosti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">салыкалаш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">liekehtiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">салымалташ</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">sytyttää palamaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">салымангдаш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">tervehtiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">салютуяш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kitkeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"><t Contlex="V_ЕМ" pos="V">самлалташ</t> <t Contlex="V_ЕМ" pos="V">самлаш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">erehtyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">самынялташ</t> </tg> </mg> </e>
@@ -3932,7 +3940,7 @@
 <e> <lg> <l pos="V">virkistyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">свезӓлӓнӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">siunautua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">свящӓйӓлтӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">siunauttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">свящӓйӹктӓш</t> </tg> </mg> </e>
-<e> <lg> <l pos="V"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">свӓткӓлӓнӓш</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">pelleillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">свӓткӓлӓнӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">antautua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">сдаялташ</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kopauttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_ЕМ" pos="V">севӓлтӓш</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">paukuttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="V_АМ" pos="V">севӓлӓш</t> </tg> </mg> </e>
