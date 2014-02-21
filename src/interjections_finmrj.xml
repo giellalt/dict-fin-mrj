@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="fin">
+<e> <lg> <l pos="Interj">hoi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">niin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">selvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">а-а-а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ok</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">а-а-а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ai ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hups</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">mennään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">айда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hallo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">алло</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">алло</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hallo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">альо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj"/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">альок</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">атат</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ahaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">аха</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">niin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">аха</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">niinhän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">аха</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">yhtäkkiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">выр-вор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">apua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">караул</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">niinkö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="PCLE_" pos="Pcle">коли</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">кӹш</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">макар</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">мотри</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">мотрӓй</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">нӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">нӓмӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">нӓӓй</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">пыйца</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">пытьыри</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">пӧчӧк</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">роккаляге</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">сӧ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">сӧвичӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">сӧгуды</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">сӧдӱгӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">сӱнзӹ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">тига</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">тырлай</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">тырлай-итӓй</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">чук-чук</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">чур</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ша</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">шабаш</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">шатын</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">шеремет</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">шӹл</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">эр-эр</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ӓлдӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ӓлдӓдӓ</t> </tg> </mg> </e>
+<e> <lg> <l pos=""/> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mrj"> <t Contlex="INTERJ_" pos="Interj">ӹш-ш</t> </tg> </mg> </e>
+</r>
