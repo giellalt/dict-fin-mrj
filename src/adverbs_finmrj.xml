@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xml:lang="fin">
+   <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
    For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
@@ -13,1366 +9,1100 @@
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
-
-  <e>
-    <lg>
-      <l pos="Adv">aikaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">веремӓн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ajoissa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">alla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">лӹвӓлнӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">alle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">лӹвӓлӓн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">alta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">лӹвӓц</t>
-
-        <t Contlex="ADV_" pos="Adv">лӹвӓцӹн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">alussa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">anonyymisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">анонимно</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">edessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">анзылны</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">edestä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">анзыц</t>
-
-        <t Contlex="ADV_" pos="Adv">анзыцын</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ensiksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eteen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">анзык</t>
-
-        <t Contlex="ADV_" pos="Adv">анзыкы</t>
-
-        <t Contlex="ADV_" pos="Adv">анзылан</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eteenpäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">анзыкы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">eteenpäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">анзыкыла</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">etukäteen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">heti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">huomenna</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">иргодым</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">illaksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вадешеш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">illalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вадеш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ilmeisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">векӓт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">iltapäivällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вадывекӹлӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">joskus</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">веремӓн-веремӓн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jotenkin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">кыце-гӹнят</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">järjestykseen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓрӹшкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">järjestyksessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓре</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kai</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">векӓт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kauas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹш</t>
-
-        <t Contlex="ADV_" pos="Adv">ӧрдӹшкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kokonaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вашт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">koska</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">кынам</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kotiimme</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">токына</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kotiin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">токы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kotiini</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">токем</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kotiinsa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">токыжы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kyljellä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжӹн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kylkeäpäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжӹн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lähellä; lähelläni</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">воктен</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">läpi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вашт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">läpikotaisin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вашт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lävitse</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вашт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">miksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">малан</t>
-
-        <t Contlex="ADV_" pos="Adv">малын</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">milloin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">кынам</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">miten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">кыце</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">muinoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ажны</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">niin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тенге</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">niinpä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тенгежӹ</t>
-
-        <t Contlex="ADV_" pos="Adv">тенгелӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">nopeasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">йӹле</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">näin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тенге</t>
-
-        <t Contlex="ADV_" pos="Adv">тенгелӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">paikkoillaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓре</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">paikkoilleen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓрӹшкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pian</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">йӹле</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">puolella</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">велнӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">puolelle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">векӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">päälle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӹк</t>
-
-        <t Contlex="ADV_" pos="Adv">вӹкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">salaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ивештӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">salaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ивештӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">salavihkaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ивештӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">samantien</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">siellä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тӹштӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">siihen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тӹшӓкен</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">silloin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тенгежӹ</t>
-
-        <t Contlex="ADV_" pos="Adv">тӹнӓм</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sinne</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тӹшӓк</t>
-
-        <t Contlex="ADV_" pos="Adv">тӹшӓкен</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">siten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тенге</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sittemmin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вара</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sitten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вара</t>
-
-        <t Contlex="ADV_" pos="Adv">тӹнӓм</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sivulle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sivussa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sivuun</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">syrjälle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹш</t>
-
-        <t Contlex="ADV_" pos="Adv">ӧрдӹшкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">syrjällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">syrjässä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">syrjään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">todellisuudessa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_КОЛ" pos="Adv">кӹрӓт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tänne</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тишкӹ</t>
-
-        <t Contlex="ADV_" pos="Adv">тишӓк</t>
-
-        <t Contlex="ADV_" pos="Adv">тишӓкен</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tännepäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тишкӹлӓ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">täällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">тиштӓкен</t>
-
-        <t Contlex="ADV_" pos="Adv">тиштӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulkopuolella</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vastaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">ваштареш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vieressä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">сага</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vinosti; vinoon; viistoon</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вочык</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">väliin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">лоэш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ylle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӹк</t>
-
-        <t Contlex="ADV_" pos="Adv">вӹкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ylös</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">вӹкӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ympäriinsä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">йӹрвӓш</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ympärillä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="ADV_" pos="Adv">йӹрвӓш</t>
-      </tg>
-    </mg>
-  </e>
+   <e>
+      <lg>
+         <l pos="Adv">aikaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">веремӓн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ajoissa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">лӹвӓлнӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">лӹвӓлӓн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">лӹвӓц</t>
+            <t Contlex="ADV_" pos="Adv">лӹвӓцӹн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alussa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">anonyymisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">анонимно</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">анзылны</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edestä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">анзыц</t>
+            <t Contlex="ADV_" pos="Adv">анзыцын</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensiksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eteen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">анзык</t>
+            <t Contlex="ADV_" pos="Adv">анзыкы</t>
+            <t Contlex="ADV_" pos="Adv">анзылан</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eteenpäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">анзыкы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">eteenpäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">анзыкыла</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etukäteen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">heti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">huomenna</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">иргодым</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">illaksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вадешеш</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">illalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вадеш</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilmeisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">векӓт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">iltapäivällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вадывекӹлӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">joskus</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">веремӓн-веремӓн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jotenkin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">кыце-гӹнят</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">järjestykseen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓрӹшкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">järjestyksessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓре</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kai</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">векӓт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauas</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹш</t>
+            <t Contlex="ADV_" pos="Adv">ӧрдӹшкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kokonaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вашт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koska</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">кынам</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotiimme</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">токына</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotiin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">токы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotiini</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">токем</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kotiinsa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">токыжы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kyljellä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжӹн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kylkeäpäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжӹн</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lähellä; lähelläni</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">воктен</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">läpi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вашт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">läpikotaisin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вашт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lävitse</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вашт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">малан</t>
+            <t Contlex="ADV_" pos="Adv">малын</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">milloin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">кынам</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">кыце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">muinoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ажны</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тенге</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niinpä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тенгежӹ</t>
+            <t Contlex="ADV_" pos="Adv">тенгелӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nopeasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">йӹле</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тенге</t>
+            <t Contlex="ADV_" pos="Adv">тенгелӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikkoillaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓре</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikkoilleen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӓрӓн-вӓрӹшкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pian</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">йӹле</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">puolella</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">велнӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">puolelle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">векӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päälle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӹк</t>
+            <t Contlex="ADV_" pos="Adv">вӹкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">salaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ивештӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">salaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ивештӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">salavihkaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ивештӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samantien</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV-TEMP_" pos="Adv">андак</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siellä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тӹштӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siihen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тӹшӓкен</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">silloin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тенгежӹ</t>
+            <t Contlex="ADV_" pos="Adv">тӹнӓм</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sinne</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тӹшӓк</t>
+            <t Contlex="ADV_" pos="Adv">тӹшӓкен</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тенге</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sittemmin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вара</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sitten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вара</t>
+            <t Contlex="ADV_" pos="Adv">тӹнӓм</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sivulle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sivussa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sivuun</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syrjälle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹш</t>
+            <t Contlex="ADV_" pos="Adv">ӧрдӹшкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syrjällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syrjässä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syrjään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">todellisuudessa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_КОЛ" pos="Adv">кӹрӓт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänne</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тишкӹ</t>
+            <t Contlex="ADV_" pos="Adv">тишӓк</t>
+            <t Contlex="ADV_" pos="Adv">тишӓкен</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tännepäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тишкӹлӓ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">тиштӓкен</t>
+            <t Contlex="ADV_" pos="Adv">тиштӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulkopuolella</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ӧрдӹжтӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">ваштареш</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vieressä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">сага</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vinosti; vinoon; viistoon</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вочык</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">väliin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">лоэш</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӹк</t>
+            <t Contlex="ADV_" pos="Adv">вӹкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylös</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">вӹкӹ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ympäriinsä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">йӹрвӓш</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ympärillä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="mrj">
+            <t Contlex="ADV_" pos="Adv">йӹрвӓш</t>
+         </tg>
+      </mg>
+   </e>
 </r>
