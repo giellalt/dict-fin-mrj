@@ -1,481 +1,600 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="fin">
-   <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
-   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
-   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
-   <e>
-      <lg>
-         <l pos="Num">kahdeksan</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кӓндӓкш</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kahdeksankymmentä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кӓндӓкшлу</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kahdeksansataa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кӓндӓкшшӱдӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kahdeksantoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луаткӓндӓкш</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kahdeksassadas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кӓндӓкшшӱдӹшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kahdeksastoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кӓндӓкшлушы</t>
-            <t Contlex="NUM_" pos="Num">луаткӓндӓкшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kahdessadas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кокшӱдӹшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kaksi</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кок</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kaksikymmentä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">коклы</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kaksisataa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кокшӱдӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kaksitoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луаткок</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kolmas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кымшы</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kolme</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кым</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kolmesataa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кымшӱдӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kolmetoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луаткым</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kuudessadas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кудшӱдӹшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kuusisataa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кудшӱдӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kuusitoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луаткуд</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">kymmenene</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">лу</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">neljätoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луатнӹл</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">seitsemäntoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луатшӹм</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">toinen</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">кокшы</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">viides</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">вӹзӹмшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">viideskymmenes</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">вӹцлӹшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">viisi</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">вӹц</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">viisikymmentä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">вӹцлӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">viisisataa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">вӹцшӱдӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">viisitoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луатвӹц</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yhdeksän</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ӹндекшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yhdeksänkymmentä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ӹндекшлу</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yhdeksänsataa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ӹндекшшӱдӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yhdeksäs</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ӹндекшӹмшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yhdeksäskymmenes</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ӹндекшлушы</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yhdeksässadas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ӹндекшшӱдӹшӹ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yksi</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">ик</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Num">yksitoista</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="NUM_" pos="Num">луатик</t>
-         </tg>
-      </mg>
-   </e>
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кӓндӓкш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksankymmentä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кӓндӓкшлу</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksansataa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кӓндӓкшшӱдӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksantoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луаткӓндӓкш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksassadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кӓндӓкшшӱдӹшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdeksastoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кӓндӓкшлушы</t>
+
+        <t Contlex="NUM_" pos="Num">луаткӓндӓкшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kahdessadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кокшӱдӹшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kaksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кок</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kaksikymmentä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">коклы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kaksisataa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кокшӱдӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kaksitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луаткок</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolmas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кымшы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolme</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кым</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolmesataa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кымшӱдӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kolmetoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луаткым</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kuudessadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кудшӱдӹшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kuusisataa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кудшӱдӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kuusitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луаткуд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">kymmenen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">лу</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">neljätoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луатнӹл</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">seitsemäntoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луатшӹм</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">toinen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">кокшы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viides</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">вӹзӹмшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viideskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">вӹцлӹшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">вӹц</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisikymmentä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">вӹцлӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisisataa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">вӹцшӱдӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">viisitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луатвӹц</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ӹндекшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksänkymmentä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ӹндекшлу</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksänsataa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ӹндекшшӱдӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksäs</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ӹндекшӹмшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksäskymmenes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ӹндекшлушы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yhdeksässadas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ӹндекшшӱдӹшӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">ик</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">yksitoista</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="NUM_" pos="Num">луатик</t>
+      </tg>
+    </mg>
+  </e>
 </r>

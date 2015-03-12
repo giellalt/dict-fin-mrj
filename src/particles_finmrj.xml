@@ -1,417 +1,1132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="fin">
-   <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
-   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
-   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
-   <e>
-      <lg>
-         <l pos="Pcle">-han</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ач</t>
-            <t Contlex="PCLE_" pos="Pcle">вет</t>
-            <t Contlex="PCLE_" pos="Pcle">вӓл</t>
-            <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
-            <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
-            <t Contlex="PCLE_" pos="Pcle">дык</t>
-            <t Contlex="PCLE_" pos="Pcle">и</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">-hän</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ач</t>
-            <t Contlex="PCLE_" pos="Pcle">вет</t>
-            <t Contlex="PCLE_" pos="Pcle">вӓл</t>
-            <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
-            <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
-            <t Contlex="PCLE_" pos="Pcle">дык</t>
-            <t Contlex="PCLE_" pos="Pcle">и</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">-kin</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">гӹнят</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">-pA</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
-            <t Contlex="PCLE_" pos="Pcle">доко</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">-pa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">айда</t>
-            <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
-            <t Contlex="PCLE_" pos="Pcle">дык</t>
-            <t Contlex="PCLE_" pos="Pcle">и</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">-pas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ач</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">-pä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
-            <t Contlex="PCLE_" pos="Pcle">дык</t>
-            <t Contlex="PCLE_" pos="Pcle">и</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">edes</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ито</t>
-            <t Contlex="PCLE_" pos="Pcle">керек</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ilmeisesti</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">сӓй</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">jopa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">вӓк</t>
-            <t Contlex="PCLE_" pos="Pcle">дажы</t>
-            <t Contlex="PCLE_" pos="Pcle">ижӹ</t>
-            <t Contlex="PCLE_" pos="Pcle">ито</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">just</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">самой</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">justiinsa</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">доко</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">kuitenkin</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">содыки</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">kuulemma</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">доко</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">kyllä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ане</t>
-            <t Contlex="PCLE_" pos="Pcle">аха</t>
-            <t Contlex="PCLE_" pos="Pcle">мане</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">mukamas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">вуйта</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">myöskin</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ат</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">myöskään</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ат</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">niin</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">ане</t>
-            <t Contlex="PCLE_" pos="Pcle">дӓ</t>
-            <t Contlex="PCLE_" pos="Pcle">мане</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">niinpä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">дӓ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">näemmä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">доко</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">näköjään</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">сӓй</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">oikeasti</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">вӓл</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">oikeastiko</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">коли</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">pahus</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">смӧрт</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">taas</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
-            <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
-            <t Contlex="PCLE_" pos="Pcle">дык</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">vaikka</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">керек</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">vältämättä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">вӓл</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pcle">ylipäänsä</l>
-         <stg>
-            <st/>
-         </stg>
-      </lg>
-      <mg>
-         <tg xml:lang="mrj">
-            <t Contlex="PCLE_" pos="Pcle">икманаш</t>
-         </tg>
-      </mg>
-   </e>
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-hAn</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">гӓлӓ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ӓ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-han</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ач</t>
+
+        <t Contlex="PCLE_" pos="Pcle">вет</t>
+
+        <t Contlex="PCLE_" pos="Pcle">вӓл</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дык</t>
+
+        <t Contlex="PCLE_" pos="Pcle">и</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-hän</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ач</t>
+
+        <t Contlex="PCLE_" pos="Pcle">вет</t>
+
+        <t Contlex="PCLE_" pos="Pcle">вӓл</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дык</t>
+
+        <t Contlex="PCLE_" pos="Pcle">и</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-kO</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ли</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-kin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">гӹнят</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pA</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">-ай</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӓлӓ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
+
+        <t Contlex="PCLE_" pos="Pcle">доко</t>
+
+        <t Contlex="PCLE_" pos="Pcle">йок</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">айда</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дык</t>
+
+        <t Contlex="PCLE_" pos="Pcle">и</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ач</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">-pä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дык</t>
+
+        <t Contlex="PCLE_" pos="Pcle">и</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">anna</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">кадай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">annapas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">кадай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">edes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ито</t>
+
+        <t Contlex="PCLE_" pos="Pcle">керек</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ei hätiä mitiä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">нечывы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">eikö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="Pcle-Qst" pos="Pcle">ма</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ӓ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">eikös</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">разве</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ӓ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">eivätkö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">emmekö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ennäe</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ыжат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">etkö niin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ӓ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">etkös</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ettekö</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ilmeisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">сӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">jopa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">вӓк</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дажы</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ижӹ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ито</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">jospa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ылгецӹ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">just</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">самой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">justiinsa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">доко</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">kas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="Pcle-Qst" pos="Pcle">ма</t>
+
+        <t Contlex="PCLE_" pos="Pcle">теве</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">kas tässä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">теве</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">kuitenkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">содыки</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">kuulemma</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">доко</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">kyllä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ане</t>
+
+        <t Contlex="PCLE_" pos="Pcle">аха</t>
+
+        <t Contlex="PCLE_" pos="Pcle">мане</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">mitäpäs nyt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">колой</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">mukamas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">вуйта</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">mutta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">myöskin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">myöskään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">niin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ане</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дӓ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">мане</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">niinpä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">дӓ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">цурат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">no</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">теве</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">noh</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">йӓ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">noniin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">теве</t>
+
+        <t Contlex="PCLE_" pos="Pcle">тевеш</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">näe</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">ыжат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">näemmä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">доко</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">näes</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">теве</t>
+
+        <t Contlex="PCLE_" pos="Pcle">тевеш</t>
+
+        <t Contlex="PCLE_" pos="Pcle">тӹве</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">näköjään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">сӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">odotapas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">итӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">odotapas nyt</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">итӓй-тырлай</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">oikeasti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">вӓл</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">oikeastiko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">коли</t>
+
+        <t Contlex="PCLE_" pos="Pcle">ли</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">olemassa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">улы</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">olkoon</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">пускай</t>
+
+        <t Contlex="PCLE_" pos="Pcle">тек</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ota vaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">нӓӓй</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">otapas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">нӓ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ottaisitko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">нӓ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">pahus</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">смӧрт</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">sitä sun...</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">мол</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">taas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">гӹнь</t>
+
+        <t Contlex="PCLE_" pos="Pcle">гӹньӹ</t>
+
+        <t Contlex="PCLE_" pos="Pcle">дык</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">tosiaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">цурат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">totta tosiaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">цуратат</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">vaikka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">керек</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">vain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">вел</t>
+
+        <t Contlex="PCLE_" pos="Pcle">веле</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">vielä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">моло</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">vältämättä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">вӓл</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">ylipäänsä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="mrj">
+        <t Contlex="PCLE_" pos="Pcle">икманаш</t>
+      </tg>
+    </mg>
+  </e>
 </r>
