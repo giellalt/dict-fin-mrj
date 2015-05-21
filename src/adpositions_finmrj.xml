@@ -140,24 +140,6 @@
 
   <e>
     <lg>
-      <l pos="Po">alta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="POSTP_" pos="Po">лӹвӓц</t>
-
-        <t Contlex="POSTP_" pos="Po">лӹвӓцӹн</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Adv">alta</l>
 
       <stg>
@@ -184,6 +166,10 @@
     <mg>
       <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">лӹвецӹн</t>
+
+        <t Contlex="POSTP_" pos="Po">лӹвӓц</t>
+
+        <t Contlex="POSTP_" pos="Po">лӹвӓцӹн</t>
       </tg>
     </mg>
   </e>
@@ -464,21 +450,7 @@
     <mg>
       <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">кытлашты</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="Po">kohdalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">туре</t>
 
         <t Contlex="POSTP_" pos="Po">турештӹ</t>
@@ -619,23 +591,9 @@
 
     <mg>
       <tg xml:lang="mrj">
-        <t Contlex="POSTP_" pos="Po">доны</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">luona</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">воктен</t>
+
+        <t Contlex="POSTP_" pos="Po">доны</t>
       </tg>
     </mg>
   </e>
@@ -685,39 +643,9 @@
 
     <mg>
       <tg xml:lang="mrj">
-        <t Contlex="POSTP_" pos="Po">лишнӹ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">lähellä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">воктен</t>
-      </tg>
-    </mg>
-  </e>
 
-  <e>
-    <lg>
-      <l pos="Po">läpi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="POSTP_" pos="Po">мычкы</t>
+        <t Contlex="POSTP_" pos="Po">лишнӹ</t>
       </tg>
     </mg>
   </e>
@@ -734,6 +662,8 @@
     <mg>
       <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">гач</t>
+
+        <t Contlex="POSTP_" pos="Po">мычкы</t>
       </tg>
     </mg>
   </e>
@@ -1323,23 +1253,9 @@
 
     <mg>
       <tg xml:lang="mrj">
-        <t Contlex="POSTP_" pos="Po">сага</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Po">vieressä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
         <t Contlex="POSTP_" pos="Po">воктен</t>
+
+        <t Contlex="POSTP_" pos="Po">сага</t>
       </tg>
     </mg>
   </e>

@@ -22,22 +22,6 @@
 
   <e>
     <lg>
-      <l pos="Pron">aikaisempi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="PRON_" pos="Pron">молнамшы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pron">eräs</l>
 
       <stg>
@@ -48,24 +32,6 @@
     <mg>
       <tg xml:lang="mrj">
         <t Contlex="PRON_" pos="Pron">ик</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">eräänlainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="mrj">
-        <t Contlex="PRON_" pos="Pron">ӓнят-тамахань</t>
-
-        <t Contlex="PRON_" pos="Pron">ӓнят-тамаханьы</t>
       </tg>
     </mg>
   </e>
